@@ -1,0 +1,2 @@
+# EMFAzure
+VM sur azure
